@@ -1,0 +1,34 @@
+
+/* style container with list of planets */
+.container{
+    padding-top:50px;
+    min-height: 100vh;
+   
+}
+/* style container with list of planets */
+
+/* Style Header */
+.navbar{
+    background-color: midnightblue !important;
+    
+}
+/* Style Header */
+
+/* Style card with planet */
+.card:hover{
+    box-shadow:0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0,0,0,0.22) ;
+    cursor: pointer;
+
+}
+/* Style card with planet */
+
+
+/* Style name planet */
+.cardbody{
+   color:midnightblue;
+}
+.name{
+    font-size: 35px;
+    
+}
+/* Style name planet */
